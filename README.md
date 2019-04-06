@@ -34,6 +34,7 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 2. 1 x 3D printed cover (Found in the cad folder)
 3. 1 x Holder Left (Found in the cad folder)
 4. 1 x Holder right (Found in the cad folder)
+5. 25 x P75-B1 pogo pins [ebay](https://www.ebay.ca/itm/50pcs-P75-B1-Dia-1-02mm-100g-Cusp-Spear-Spring-Loaded-Test-Probes-Pogo-Pin/191960357788?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2648)
 
 In addition, you would need the following electronics (bom.csv)
 
