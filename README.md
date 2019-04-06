@@ -37,6 +37,7 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 5. 25 x P75-B1 pogo pins [ebay](https://www.ebay.ca/itm/50pcs-P75-B1-Dia-1-02mm-100g-Cusp-Spear-Spring-Loaded-Test-Probes-Pogo-Pin/191960357788?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2648)
 
 In addition, you would need the following electronics (bom.csv)
+
 |Manufacturer Part Number|Manufacturer               |Digi-Key Part Number|Quantity|Description                    |
 |------------------------|---------------------------|--------------------|--------|-------------------------------|
 |SN74HC125N              |Texas Instruments          |296-1572-5-ND       |1       |IC BUFFER NON-INVERT 6V 14DIP  |
