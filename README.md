@@ -37,19 +37,18 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 5. 25 x P75-B1 pogo pins [ebay](https://www.ebay.ca/itm/50pcs-P75-B1-Dia-1-02mm-100g-Cusp-Spear-Spring-Loaded-Test-Probes-Pogo-Pin/191960357788?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2648)
 
 In addition, you would need the following electronics (bom.csv)
-
 |Manufacturer Part Number|Manufacturer               |Digi-Key Part Number|Quantity|Description                    |
 |------------------------|---------------------------|--------------------|--------|-------------------------------|
 |SN74HC125N              |Texas Instruments          |296-1572-5-ND       |1       |IC BUFFER NON-INVERT 6V 14DIP  |
 |A 14-LC-TT              |Assmann WSW Components     |AE9989-ND           |1       |CONN IC DIP SOCKET 14POS TIN   |
 |OS102011MS2QN1          |C&K                        |CKN9565-ND          |1       |SWITCH SLIDE SPDT 100MA 12V    |
 |SDS-50J                 |CUI Inc.                   |CP-2350-ND          |1       |CONN RCPT FMALE DIN 5POS SOLDER|
-|DEV-14057               |SparkFun Electronics       |1568-1442-ND        |1       |TEENSY 3.6 W/OUT HDRS K66 EVAL |
+|DEV-14057               |SparkFun Electronics       |1568-1442-ND        |0       |TEENSY 3.6 W/OUT HDRS K66 EVAL |
 |SJ1-3533NG              |CUI Inc.                   |CP1-3533NG-ND       |1       |CONN JACK STEREO 3.5MM R/A     |
 |CF14JT220R              |Stackpole Electronics Inc  |CF14JT220RCT-ND     |2       |RES 220 OHM 1/4W 5% AXIAL      |
 |CF14JT10K0              |Stackpole Electronics Inc  |CF14JT10K0CT-ND     |1       |RES 10K OHM 1/4W 5% AXIAL      |
 |PPTC241LFBN-RC          |Sullins Connector Solutions|S7022-ND            |2       |CONN HDR 24POS 0.1 TIN PCB     |
-
+|PRPC028SACN-RC          |Sullins Connector Solutions|S1131EC-28-ND       |2       |CONN HEADER VERT 28POS 2.54MM  |
 
 # Photos
 
