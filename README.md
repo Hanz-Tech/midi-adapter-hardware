@@ -53,12 +53,16 @@ In addition, you would need the following electronics (bom.csv)
 
 # Photos
 
-![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/volca%2Bbeatstep.jpg "Setup")
-
 ![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/adapter.jpg)
+
+![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/pins.jpg)
+
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/beatstep.jpg "Setup")
+
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/opz.jpg "Setup")
 
 ![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover.jpg)
 
-![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/pins.jpg)
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover_back.jpg)
 
 ![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/layout.PNG)
