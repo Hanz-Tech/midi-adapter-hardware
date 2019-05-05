@@ -53,7 +53,8 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 4. 1 x Holder right (Found in the cad folder)
 5. 25 x P75-B1 pogo pins [ebay](https://www.ebay.ca/itm/50pcs-P75-B1-Dia-1-02mm-100g-Cusp-Spear-Spring-Loaded-Test-Probes-Pogo-Pin/191960357788?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2648)
 6. 1 x USB-Host breakout [ebay](https://www.ebay.com/itm/USB-Female-Power-Module-USB-Type-A-Female-Breakout-Converter-Board-Breadboard/272351358553?hash=item3f6967ee59:g:LB8AAOSw~y9ZAxTT)
-In addition, you would need the following electronics (bom.csv)
+
+In addition, you would need the following electronics from Digikey (bom.csv)
 
 |Digikey                 |FIELD2                     |FIELD3              |FIELD4  |FIELD5                          |
 |------------------------|---------------------------|--------------------|--------|--------------------------------|
