@@ -27,6 +27,23 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 
 [![PO-MA](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/title.jpg)](https://www.youtube.com/watch?v=iIQ18DAJAU0 "PO-MA")
 
+# Photos
+
+![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/adapter.jpg)
+
+![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/pins.jpg)
+
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/beatstep.jpg "Setup")
+
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/opz.jpg "Setup")
+
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover.jpg)
+
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover_back.jpg)
+
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/all_components.jpg)
+
+![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/layout.PNG)
 
 # BOM
 
@@ -50,19 +67,3 @@ In addition, you would need the following electronics (bom.csv)
 |CF14JT10K0              |Stackpole Electronics Inc  |CF14JT10K0CT-ND     |1       |RES 10K OHM 1/4W 5% AXIAL      |
 |PPTC241LFBN-RC          |Sullins Connector Solutions|S7022-ND            |2       |CONN HDR 24POS 0.1 TIN PCB     |
 |PRPC028SACN-RC          |Sullins Connector Solutions|S1131EC-28-ND       |2       |CONN HEADER VERT 28POS 2.54MM  |
-
-# Photos
-
-![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/adapter.jpg)
-
-![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/pins.jpg)
-
-![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/beatstep.jpg "Setup")
-
-![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/opz.jpg "Setup")
-
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover.jpg)
-
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover_back.jpg)
-
-![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/layout.PNG)
