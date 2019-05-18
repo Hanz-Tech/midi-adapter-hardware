@@ -25,6 +25,8 @@ _____________________________________________
 
 This repo contains both the CAD for the 3D printed cover for the Pocket Operator and the PCB schematic for the adapter. PCB is created using KiCad. Software can be found [here](https://github.com/PO-MIDI-Adapter/midi-adapter-sofware)
 
+## For assmebly instruction please go to the [wiki](https://github.com/PO-MIDI-Adapter/midi-adapter-hardware/wiki)
+
 [![PO-MA](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/title.jpg)](https://www.youtube.com/watch?v=iIQ18DAJAU0 "PO-MA")
 
 # Photos
