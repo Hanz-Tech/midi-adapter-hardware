@@ -1,4 +1,7 @@
 
+
+<a href="https://www.tindie.com/stores/hanztech/?ref=offsite_badges&utm_source=sellers_bobthesheep&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # Disclaimer
@@ -74,4 +77,3 @@ In addition, you would need the following electronics from Digikey (bom.csv)
 |R82EC1100SH50J          |KEMET                      |399-11751-ND        |2       |CAP FILM 1000PF 5% 100VDC RADIAL|
 |UMA1C100MDD1TP          |Nichicon                   |493-10458-1-ND      |2       |CAP ALUM 10UF 20% 16V RADIAL    |
 |CF14JT5K10              |Stackpole Electronics Inc  |CF14JT5K10CT-ND     |2       |RES 5K OHM 1/4W 5% AXIAL        |
-
